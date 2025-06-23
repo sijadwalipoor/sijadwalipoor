@@ -48,16 +48,6 @@ I'm a passionate software developer who enjoys turning complex problems into ele
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sijadwalipoor&show_icons=true&theme=tokyonight" alt="Sijad's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijadwalipoor&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
