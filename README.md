@@ -1,25 +1,25 @@
 <h1 align="center">Hi there, I'm Sijad Walipoor 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Developer | 🧠 Lifelong Learner | 🌍 Based in [Your Country]  
+  💻 Full-Stack Developer | 🧠 Lifelong Learner | 🌍 Based in **Belgium**
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate software developer who enjoys turning complex problems into elegant, efficient code. I work across both frontend and backend technologies and thrive in agile, collaborative environments.
 
-- 🔭 Currently exploring backend architectures & design patterns  
-- 🛠️ Strong focus on clean code, performance & scalability  
-- 🤝 Open to new opportunities and exciting tech challenges  
-- 🌱 Always learning, always building  
+- Currently exploring backend architectures & design patterns  
+- Strong focus on clean code, performance & scalability  
+- Open to new opportunities and exciting tech challenges  
+- Always learning, always building  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💡 Languages  
+### Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,9 +44,9 @@ I'm a passionate software developer who enjoys turning complex problems into ele
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Sijad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sijadwalipoor&show_icons=true&theme=tokyonight" alt="Sijad's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijadwalipoor&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -54,10 +54,10 @@ I'm a passionate software developer who enjoys turning complex problems into ele
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/sijadwalipoor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sijad.walipoor@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
