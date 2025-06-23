@@ -15,7 +15,7 @@ During the years I have worked on multiple big and small projects. **Feel free t
 **Tools & Practices:** Git · Agile/Scrum · REST APIs
 
 🔗 **Let's connect!**  
-[LinkedIn](www.linkedin.com/in/sijad-walipoor-8ab62530a)
+[LinkedIn](#www.linkedin.com/in/sijad-walipoor-8ab62530a)
 ---
 
 *Thanks for stopping by!*
