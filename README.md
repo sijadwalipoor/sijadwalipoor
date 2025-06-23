@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sijad Walipoor 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Developer | 🧠 Lifelong Learner | 🌍 Based in **Belgium**
+  💻 Full-Stack Developer | 🧠 Lifelong Learner | 🌍 Based in Belgium
 </p>
 
 ---
