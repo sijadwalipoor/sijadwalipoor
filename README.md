@@ -14,13 +14,8 @@ During the years I have worked on multiple big and small projects. **Feel free t
 **Frontend:** JavaScript · TypeScript · Tailwind CSS  
 **Tools & Practices:** Git · Agile/Scrum · REST APIs
 
-📈 **GitHub Stats**  
-![Sijad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
 🔗 **Let's connect!**  
-[LinkedIn](#) • [Email](mailto:you@example.com)
-
+[LinkedIn](www.linkedin.com/in/sijad-walipoor-8ab62530a)
 ---
 
 *Thanks for stopping by!*
